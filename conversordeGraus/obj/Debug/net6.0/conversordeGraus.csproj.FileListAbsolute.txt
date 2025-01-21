@@ -1,0 +1,14 @@
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\bin\Debug\net6.0\conversordeGraus.exe
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\bin\Debug\net6.0\conversordeGraus.deps.json
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\bin\Debug\net6.0\conversordeGraus.runtimeconfig.json
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\bin\Debug\net6.0\conversordeGraus.dll
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\bin\Debug\net6.0\conversordeGraus.pdb
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\obj\Debug\net6.0\conversordeGraus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\obj\Debug\net6.0\conversordeGraus.AssemblyInfoInputs.cache
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\obj\Debug\net6.0\conversordeGraus.AssemblyInfo.cs
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\obj\Debug\net6.0\conversordeGraus.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\obj\Debug\net6.0\conversordeGraus.dll
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\obj\Debug\net6.0\refint\conversordeGraus.dll
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\obj\Debug\net6.0\conversordeGraus.pdb
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\obj\Debug\net6.0\conversordeGraus.genruntimeconfig.cache
+C:\Users\WIN11\source\repos\conversordeGraus\conversordeGraus\obj\Debug\net6.0\ref\conversordeGraus.dll
